@@ -6,3 +6,4 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:8761/eureka
+#configuration is on on git for main profile
